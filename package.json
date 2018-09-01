@@ -24,7 +24,8 @@
   },
   "files": [
     "lib",
-    "es"
+    "es",
+    "responsive"
   ],
   "license": "MIT",
   "main": "lib/index.native.js",
