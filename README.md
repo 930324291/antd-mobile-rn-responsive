@@ -44,3 +44,9 @@ install expo app: https://expo.io/tools
 ## Contributing
 
 We welcome all contributions, please read our [CONTRIBUTING.md](https://github.com/ant-design/ant-design-mobile-rn/blob/master/.github/CONTRIBUTING.md) first. You can submit any ideas as [pull requests](https://github.com/ant-design/ant-design-mobile-rn/pulls) or as a [GitHub issue](https://github.com/ant-design/ant-design-mobile-rn/issues). If you'd like to improve code, check out the [Development Instruction](https://github.com/ant-design/ant-design-mobile-rn/blob/master/development.en-US.md) and have a good time! :)
+
+## 我修改了什么
+
+- List 组件添加noBorder属性控制上下边框是否显示
+- List.Item 组件添加last属性控制下边框是否显示
+- 删除es文件夹和lib文件下的所有demo文件夹以及所有ts文件
