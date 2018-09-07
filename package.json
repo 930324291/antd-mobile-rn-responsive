@@ -1,6 +1,6 @@
 {
   "name": "antd-mobile-rn-responsive",
-  "version": "2.2.1-beta.2",
+  "version": "2.2.1",
   "description": "基于antd-mobile-rn加入了字体自适应和尺寸自适应算法",
   "keywords": [
     "ant",
@@ -31,6 +31,7 @@
   "main": "lib/index.native.js",
   "module": "es/index.native.js",
   "dependencies": {
+    "react-native-adaptive":"0.1.1",
     "array-tree-filter": "~2.1.0",
     "babel-runtime": "6.x",
     "normalize-css-color": "^1.0.2",
