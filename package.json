@@ -24,7 +24,7 @@
     "url": "http://github.com/youngjuning/antd-mobile-rn-responsive/issues"
   },
   "files": [
-    "lib",
+    "lib"
   ],
   "license": "MIT",
   "main": "lib/index.native.js",
