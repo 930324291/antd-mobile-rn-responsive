@@ -1,7 +1,7 @@
 {
   "name": "antd-mobile-rn-responsive",
-  "version": "2.2.1-sishu.1",
-  "description": "基于antd-mobile-rn加入了字体自适应和尺寸自适应算法",
+  "version": "2.2.1-sishu.2",
+  "description": "更灵活、适配更好的antd-mobile-rn by youngjuning",
   "keywords": [
     "ant",
     "design",
