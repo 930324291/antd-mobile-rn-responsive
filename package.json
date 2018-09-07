@@ -1,6 +1,6 @@
 {
   "name": "antd-mobile-rn-responsive",
-  "version": "2.2.1.0",
+  "version": "2.2.1-beta.0",
   "description": "基于antd-mobile-rn加入了字体自适应和尺寸自适应算法",
   "keywords": [
     "ant",
