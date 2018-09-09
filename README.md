@@ -1,8 +1,11 @@
 ## 我修改了什么
 
+### 组件功能增强
+
 - `List` 组件添加 `noBorder` 属性控制上下边框是否显示
 - `List.Item` 组件添加 `last` 属性控制下边框是否显示
 - `List.Item `组件添加 `thumbStyle` 属性控制 thumb 的尺寸 @2.1.1-sishu.0
+- 将图片资源作为一个组件导出：`import {Image} from 'antd-mobile-rn-responsive'`
 
 ### 精简体积
 
