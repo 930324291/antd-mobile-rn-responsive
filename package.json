@@ -29,8 +29,7 @@
   "license": "MIT",
   "main": "lib/index.native.js",
   "dependencies": {
-    "antd-mobile-area-data":"2.0.0",
-    "react-native-adaptive":"0.1.1",
+    "antd-mobile-area-data":"^2.0.0",
     "array-tree-filter": "~2.1.0",
     "babel-runtime": "6.x",
     "normalize-css-color": "^1.0.2",
