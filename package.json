@@ -1,7 +1,7 @@
 {
   "name": "antd-mobile-rn-responsive",
-  "version": "2.2.1-beta.6",
-  "description": "更灵活、适配更好的antd-mobile-rn by youngjuning",
+  "version": "2.2.2",
+  "description": "Ant Design 的移动规范的 React 实现",
   "keywords": [
     "ant",
     "design",
@@ -29,6 +29,7 @@
   "license": "MIT",
   "main": "lib/index.native.js",
   "dependencies": {
+    "antd-mobile-area-data":"2.0.0",
     "react-native-adaptive":"0.1.1",
     "array-tree-filter": "~2.1.0",
     "babel-runtime": "6.x",
